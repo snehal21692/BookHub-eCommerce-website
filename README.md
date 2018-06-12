@@ -10,8 +10,6 @@ To Successfully run the application, please make sure you have CLASSPATH set pro
 
 Make sure you have Tomcat,MySQL and MongoDB servers Up and Running.
 
-Copy entire Assignment_5 folder provided with this into your system.
-
 Compile the code using javac *.java in command prompt
 
 Home servlet is where the application execution begins.
